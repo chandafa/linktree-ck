@@ -5,6 +5,6 @@ module.exports = {
   //   includePaths: [path.join(__dirname, "styles")],
   // },
   images: {
-    domains: ["cdn.discordapp.com", "arunava.tech", "hi.arunava.tech"],
+    domains: ["cdn.discordapp.com", "blogchanit.my.id", "linktree-ck.vercel.app"],
   },
 };
