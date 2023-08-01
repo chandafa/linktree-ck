@@ -31,32 +31,32 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="Arunava | Web Developer"
-        titleTemplate="Arunava | Web Developer"
-        defaultTitle="Arunava | Web Developer"
-        description="Hey! I'm Arunava, A Web Developer, Blogger and a Student!"
+        title="Candra | Web Developer"
+        titleTemplate="Candra | Web Developer"
+        defaultTitle="Candra | Web Developer"
+        description="Hey! I'm Candra, A Web Developer, Blogger and a Student!"
         openGraph={{
-          url: "https://www.arunava.tech/",
-          title: "Arunava Ghosh | AG",
+          url: "https://candrakirana.netlify.app/",
+          title: "Candra Kirana | CK",
           description:
-            "Hey! I'm Arunava, A Web Developer, Blogger and a Student!",
+            "Hey! I'm Candra, A Web Developer, Blogger and a Student!",
           images: [
             {
               url: "https://arunava.tech/static/images/socialbg.png",
-              alt: "Arunava | Web Developer",
+              alt: "Candra | Web Developer",
             },
           ],
         }}
         twitter={{
-          handle: "@ag_arunava",
-          site: "@ag_arunava",
+          handle: "@chandafa",
+          site: "@chandafa",
           cardType: "summary_large_image",
         }}
         additionalMetaTags={[
           {
             property: "keywords",
             content:
-              "Frontend Developer, Arunava, Arunava Tech, arunavatech, Web Developer, web development, web developer, blogger, tech enthusiast, open source",
+              "Frontend Developer, Candra, Candra Tech, chanit, Web Developer, web development, web developer, blogger, tech enthusiast, open source",
           },
         ]}
       />

@@ -2,21 +2,21 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 
-const name = "Arunava Ghosh";
-const belowLink = "hi.arunava.tech 👋🏻"
+const name = "Candra Kirana";
+const belowLink = "candrakirana.netlify.app👋🏻"
 const bio = "frontend & design | nextjs, typescript"
 
-const twitter = "https://twitter.com/agcodess";
-const instagram = "https://instagram.com/agcodess";
-const github = "https://github.com/its-ag";
-const lichess = "https://arunava.tech/chess";
-const spotify = "https://arunava.tech/spotify";
-const lastfm = "https://www.last.fm/user/arunava_";
-const telegram = "https://telegram.me/agcodes";
-const BuyMeACoffee = "https://www.buymeacoffee.com/arunava";
-const mail = "mailto:itsag0024@gmail.com";
-const discord = "https://discord.com/user/968448572641124352";
-const discordTag = "/dev/ag#1288";
+const twitter = "https://twitter.com/chandafa";
+const instagram = "https://instagram.com/chann.ck";
+const github = "https://github.com/chandafa";
+const lichess = "https://chandafa/chess";
+const spotify = "https://chandafa/spotify";
+const lastfm = "https://www.last.fm/user/chandafa";
+const telegram = "https://telegram.me/chandafa";
+const BuyMeACoffee = "https://www.buymeacoffee.com/chandafa";
+const mail = "mailto:ck271138@gmail.com";
+const discord = "https://discord.com/user/chandra1147";
+const discordTag = "#chandra1147";
 
 function myFunction() {
   var x = document.getElementById("snackbar");
@@ -359,10 +359,12 @@ export default function Home() {
                           </div>
                         </div>
                       </div>
+
+{/* -- #1 -- */}
                       <div className="max-w-s mt-1 w-full space-y-2">
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://arunava.tech"
+                            href="https://candrakirana.netlify.app"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -381,10 +383,10 @@ export default function Home() {
                                       My Portfolio
                                     </span>
                                     <span
-                                      title="https://arunava.tech"
+                                      title="https://candra.kirana.netlify.app"
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      arunava.tech
+                                      candrakirana.netlify.app
                                     </span>
                                   </div>
                                 </div>
@@ -404,6 +406,145 @@ export default function Home() {
                           </a>
                         </div>
                       </div>
+{/* -- #2 -- */}
+                      <div className="max-w-s mt-1 w-full space-y-2">
+                        <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
+                          <a
+                            href="https://blogchanit.my.id"
+                            target="_blank"
+                            rel="noopener noreferrer nofollow"
+                            className="w-full transition-all sm:hover:opacity-70"
+                          >
+                            <div>
+                              <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
+                                <div className="flex items-center justify-center">
+                                  <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
+                                    <span className=""> 🌊 </span>
+                                  </div>
+                                  <div className="mx-4 flex flex-col">
+                                    <span
+                                      title="My Portfolio"
+                                      className="text-ellipsis text-[16px] text-zinc-400"
+                                    >
+                                      My Personal Web
+                                    </span>
+                                    <span
+                                      title="https://blogchanit.my.id"
+                                      className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
+                                    >
+                                      blogchanit.my.id
+                                    </span>
+                                  </div>
+                                </div>
+                                <span className="absolute right-2 text-zinc-600 transition-all">
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 20 20"
+                                    fill="currentColor"
+                                    aria-hidden="true"
+                                    className="h-4 w-8"
+                                  >
+                                    <path d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"></path>
+                                  </svg>
+                                </span>
+                              </span>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+{/* -- #3 -- */}
+                      <div className="max-w-s mt-1 w-full space-y-2">
+                        <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
+                          <a
+                            href="https://infoitchandra.blogspot.com"
+                            target="_blank"
+                            rel="noopener noreferrer nofollow"
+                            className="w-full transition-all sm:hover:opacity-70"
+                          >
+                            <div>
+                              <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
+                                <div className="flex items-center justify-center">
+                                  <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
+                                    <span className=""> 🌊 </span>
+                                  </div>
+                                  <div className="mx-4 flex flex-col">
+                                    <span
+                                      title="My Portfolio"
+                                      className="text-ellipsis text-[16px] text-zinc-400"
+                                    >
+                                      My Blogger
+                                    </span>
+                                    <span
+                                      title="https://infoitchandra.blogspot.com"
+                                      className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
+                                    >
+                                      infoitchandra.blogspot.com
+                                    </span>
+                                  </div>
+                                </div>
+                                <span className="absolute right-2 text-zinc-600 transition-all">
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 20 20"
+                                    fill="currentColor"
+                                    aria-hidden="true"
+                                    className="h-4 w-8"
+                                  >
+                                    <path d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"></path>
+                                  </svg>
+                                </span>
+                              </span>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+{/* -- #4 -- */}
+                      {/* <div className="max-w-s mt-1 w-full space-y-2">
+                        <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
+                          <a
+                            href="https://candrakirana.netlify.app"
+                            target="_blank"
+                            rel="noopener noreferrer nofollow"
+                            className="w-full transition-all sm:hover:opacity-70"
+                          >
+                            <div>
+                              <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
+                                <div className="flex items-center justify-center">
+                                  <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
+                                    <span className=""> 🌊 </span>
+                                  </div>
+                                  <div className="mx-4 flex flex-col">
+                                    <span
+                                      title="My Portfolio"
+                                      className="text-ellipsis text-[16px] text-zinc-400"
+                                    >
+                                      My Portfolio
+                                    </span>
+                                    <span
+                                      title="https://candra.kirana.netlify.app"
+                                      className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
+                                    >
+                                      candrakirana.netlify.app
+                                    </span>
+                                  </div>
+                                </div>
+                                <span className="absolute right-2 text-zinc-600 transition-all">
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 20 20"
+                                    fill="currentColor"
+                                    aria-hidden="true"
+                                    className="h-4 w-8"
+                                  >
+                                    <path d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"></path>
+                                  </svg>
+                                </span>
+                              </span>
+                            </div>
+                          </a>
+                        </div>
+                      </div> */}
+
                     </div>
                     <div className="mb-4 flex justify-center">
                       <div className="bg-primary text-banner flex items-center justify-center rounded-full bg-opacity-90 text-xs font-medium"></div>
