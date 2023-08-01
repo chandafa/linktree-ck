@@ -1,7 +1,7 @@
 # How to use this ?
 
 - Star the repository to show your support
-- Also, if you need any help, feel free connect me on Discord (Arunava#1288)
+- Also, if you need any help, feel free connect me on Discord (chandra#1147)
 
 ### Using the Template
 
@@ -66,7 +66,7 @@ This portfolio template contain a Spotify Card component [here](./pages/api/now-
 
 **Example:**
 
-# [Live Demo](https://linkzia-v2.vercel.app) :sparkles: 
+# [Live Demo](https://linktree-ck.vercel.app/) :sparkles: 
 
 To configure this, you need to add `env` vars to thr `.env.local` file in the following format:
 
